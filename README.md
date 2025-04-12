@@ -4,6 +4,10 @@ A full-stack web application designed for managing categories with user authenti
 
 <div align="center">
   <img src="./client/src/assets/4.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
+  <img src="./client/src/assets/3.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
+  <img src="./client/src/assets/5.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
+  <img src="./client/src/assets/2.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
+  <img src="./client/src/assets/1.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
 </div>
 
 ## 🔧 Tech Stack
