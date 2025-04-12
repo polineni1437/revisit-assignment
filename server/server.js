@@ -20,7 +20,7 @@ app.use('/api/auth', userRoutes);
 app.use('/api/categories', categoryRoutes);
 
 app.get('/', (req,res) => {
-    console.log("SERVER RUNNING");
+    res.send("SERVER RUNNING");
 });
 
 const PORT = process.env.PORT;
