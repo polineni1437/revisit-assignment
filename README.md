@@ -2,6 +2,9 @@
 
 A full-stack web application designed for managing categories with user authentication and intuitive UI/UX.
 
+<div align="center">
+  <img src="./client/src/assets/4.png" alt="App Preview" style="width: 100%; max-width: 1000px;" />
+</div>
 
 ## 🔧 Tech Stack
 
